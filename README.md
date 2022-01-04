@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Max
 
-<!--
-**mprosk/mprosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in all things embedded -- where the hardware meets the software
 
-Here are some ideas to get you started:
+One of my favorite things to play around with is MIDI. I like creating widgets or instruments that use it to communicate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software is most powerful to me when it interacts with the physical world
+
+#### Languages and Tools
+
+C, Rust, Python, C#
+
+KiCAD
+
+#### Microcontrollers
+
+Arduino (ATMega), STM32
+
