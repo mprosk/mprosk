@@ -1,4 +1,4 @@
-- C, Rust, Python, C#
+- C, Rust, Python
 - KiCAD
 - Arduino/ATMega, STM32
 - MIDI
